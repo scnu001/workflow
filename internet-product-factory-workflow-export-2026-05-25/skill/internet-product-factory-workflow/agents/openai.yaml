@@ -1,0 +1,4 @@
+interface:
+  display_name: "Internet Product Factory"
+  short_description: "Run the evidence-first internet product workflow."
+  default_prompt: "Run the internet-product-factory workflow for the next product using files as memory, evidence-first substages, Q-Gate, depth gates, audit, and bilingual GitHub packaging."
